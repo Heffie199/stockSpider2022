@@ -7,4 +7,12 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (py3-7-1)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/StockSpiders" />
+        <option value="$MODULE_DIR$/stockSpider-master" />
+      </list>
+    </option>
+  </component>
 </module>
